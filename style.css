@@ -1,0 +1,15 @@
+Header{
+    text-align: center;
+}
+main{
+    background-color: rgb(255, 255, 255);
+    font-size: large;
+    text-align: center;
+}
+footer{
+    background-color: rgb(233, 212, 175);
+}
+
+h2{
+    background-color: lightgray;
+}
